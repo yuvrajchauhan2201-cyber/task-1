@@ -1,0 +1,7 @@
+Total Students: 3
+Average Age: 20.00
+
+Student List:
+- yuvraj (Age: 17)
+- Bob (Age: 22)
+- Charlie (Age: 21)
